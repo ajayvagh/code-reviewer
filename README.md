@@ -17,11 +17,15 @@ A **dark-themed code reviewer** that helps you analyze and improve your code. Su
 ```sh
 git clone https://github.com/your-username/code-reviewer.git
 cd code-reviewer
+
+
 2️⃣ Install Dependencies
 sh
 Copy
 Edit
 npm install
+
+
 3️⃣ Run the App
 sh
 Copy
@@ -34,6 +38,7 @@ React.js – Frontend framework
 Prism.js – Syntax highlighting
 React Markdown – Displays AI-generated reviews
 Express.js & Node.js – Backend API for AI reviews
+
 🎨 UI Highlights
 Smooth color animation on the review border
 Dark theme for a modern, distraction-free look
