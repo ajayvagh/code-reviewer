@@ -35,6 +35,6 @@ Prism.js – Syntax highlighting
 React Markdown – Displays AI-generated reviews
 Express.js & Node.js – Backend API for AI reviews
 🎨 UI Highlights
-Smooth color animation on the review button and border
+Smooth color animation on the review border
 Dark theme for a modern, distraction-free look
 Responsive design – Works on all screen sizes
