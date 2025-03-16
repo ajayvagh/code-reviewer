@@ -13,19 +13,19 @@ A **dark-themed code reviewer** that helps you analyze and improve your code. Su
 
 ## 🚀 How to Use
 
-### 1️⃣ Clone the Repository  
-```sh
+1️⃣ Clone the Repository  
+
 git clone https://github.com/your-username/code-reviewer.git
 cd code-reviewer
 
 
 2️⃣ Install Dependencies
-```sh
+
 npm install
 
 
 3️⃣ Run the App
-```sh
+
 npm run dev
 Your app should now be running at http://localhost:5173/ 🎉
 
