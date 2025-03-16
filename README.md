@@ -20,16 +20,12 @@ cd code-reviewer
 
 
 2️⃣ Install Dependencies
-sh
-Copy
-Edit
+```sh
 npm install
 
 
 3️⃣ Run the App
-sh
-Copy
-Edit
+```sh
 npm run dev
 Your app should now be running at http://localhost:5173/ 🎉
 
